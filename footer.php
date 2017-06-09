@@ -1,0 +1,1 @@
+<div id="pageFooter">Copyright | <a href="http://localhost/store2/admin/">Admin</a></div>
